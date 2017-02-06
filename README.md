@@ -35,6 +35,6 @@ Jsoon Data :-
 "mobile"" "8800381831"
 "reminder_message" : "test"
 "reminder_time": "2016-08-15 16:56:00"
-"reminder_text" : "this is first text" 
+"reminder_text" : "this is first text1" 
 }
-hello this is rebasing
+hello this is rebasing to origin 
